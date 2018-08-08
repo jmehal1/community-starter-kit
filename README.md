@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is a test project
+This is an open sourced project
+Users can get started by playing around
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Where users can get help with your project
+Who maintains and contributes to the project
 
 ## Getting started
 
